@@ -1,3 +1,6 @@
 apples
 bananas
 cherries
+blue
+red
+green
